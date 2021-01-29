@@ -8,8 +8,8 @@ int main()
 {
 	float number1, number2, number3;
 
-	cout << "Please enter your first number " << endl;
-	cin >> number1;
+	cout << "Please enter your first number " << endl; 
+	cin >> number1; 
 
 	cout << "Please enter your second number " << endl;
 	cin >> number2;
@@ -19,9 +19,11 @@ int main()
 
 
 
-	cout << "\nThe sum of the 3 numbers placed " << number1 + number2 + number3 << endl;
+	cout << "\nThe sum of the 3 numbers placed " << number1 + number2 + number3 << endl; 
 	cout << "\nThe product of the 3 numbers placed " << number1 * number2 * number3 << endl;
 	cout << "\nThe average of the 3 numbers placed " << number1 + number2 + number3 / 3 << endl;
 
 	return 0;
 }
+
+
