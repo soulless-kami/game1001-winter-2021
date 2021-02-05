@@ -18,8 +18,8 @@ int main()
 	cout << "The size of a long long int: " << sizeof(long long int) << " bytes. \n";
 	cout << "The size of a string: " << sizeof(string) << " bytes. \n\n\n";
 
-	
-	
+
+
 	cout << "A short demonstrating of the following operations\n\n\n";
 
 	double first = 2,
@@ -39,10 +39,16 @@ int main()
 	cout << "Multiplication " << third * fourth << endl;
 	cout << "Division " << first / fourth << endl;
 	cout << "Modulous " << (int)first % (int)second << endl;
-	
+
 
 
 
 
 	return 0;
 }
+
+
+
+
+
+
