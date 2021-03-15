@@ -34,21 +34,5 @@ int main()
 
 
 
-	cout << "Addition: " << first + second << endl;
-	cout << "Substraction: " << second - third << endl;
-	cout << "Multiplication " << third * fourth << endl;
-	cout << "Division " << first / fourth << endl;
-	cout << "Modulous " << (int)first % (int)second << endl;
-
-
-
-
-
 	return 0;
 }
-
-
-
-
-
-

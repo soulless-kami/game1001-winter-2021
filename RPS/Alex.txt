@@ -1,0 +1,2 @@
+The CPU score:2
+AlexScore:0
