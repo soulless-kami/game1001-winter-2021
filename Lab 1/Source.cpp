@@ -1,8 +1,8 @@
-// Simple C++ program
 #include <iostream>
-using namespace std;    //use standard namespace 
 
-//main entry point to app
+using namespace std;
+
+
 int main()
 {
 	cout << "The size of the following datas\n\n\n";
@@ -33,6 +33,12 @@ int main()
 		answerModulous;
 
 
+
+	cout << "Addition: " << first + second << endl;
+	cout << "Substraction: " << second - third << endl;
+	cout << "Multiplication " << third * fourth << endl;
+	cout << "Division " << first / fourth << endl;
+	cout << "Modulous " << (int)first % (int)second << endl;
 
 	return 0;
 }
